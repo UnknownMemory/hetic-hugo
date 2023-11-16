@@ -19,9 +19,11 @@ params:
       mobile:
         default: 2
   socials:
-    # todo: add your social accounts.
-    - icon: 'far fa-envelope fa-lg'
-      url: 'mailto:eternity@xxx.sh'
+    - icon: 'fab fa-github fa-lg'
+      url: 'https://github.com/UnknownMemory'
+      landing: true
+    - icon: 'fa-brands fa-linkedin fa-lg'
+      url: 'https://www.linkedin.com/in/jeremyschneider82/'
       landing: true
   # homepage: "/work" # todo: uncomment homepage, homepage link is mostly same with menu.main[0]
   specialPages:
