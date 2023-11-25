@@ -1,0 +1,8 @@
+.side-container .nav-head.active,
+.side-container .nav-head:hover,
+.side-container .nav-link-list .nav-link-item:hover,
+.side-container .nav-link-list .nav-link-item.active {
+    border-right: 2px solid #770e57;
+    background: rgba(119, 14, 87, 0.05);
+    color: #770e57;
+}
