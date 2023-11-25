@@ -1,6 +1,5 @@
 ---
 date: 2023-11-25T21:58:27+01:00
-draft: true
 title: "Course"
 description: "A summary of the course on GitHub Pages with Hugo"
 tags: [Hugo, GitHub]
